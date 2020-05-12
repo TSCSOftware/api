@@ -1,0 +1,110 @@
+[
+  {
+    "id": 42838,
+    "date": "2020-05-12T08:30:30",
+    "date_gmt": "2020-05-12T01:30:30",
+    "guid": {
+      "rendered": "https://techtalk.vn/?p=42838"
+    },
+    "modified": "2020-05-11T23:25:55",
+    "modified_gmt": "2020-05-11T16:25:55",
+    "slug": "cach-an-toan-de-khoi-chay-phan-mem-khong-dang-tin-cay-tren-windows-10",
+    "status": "publish",
+    "type": "post",
+    "link": "https://techtalk.vn/cach-an-toan-de-khoi-chay-phan-mem-khong-dang-tin-cay-tren-windows-10.html",
+    "title": {
+      "rendered": "Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10"
+    },
+    "content": {
+      "rendered": "<p class=\"knc-sapo\"><strong>Tính năng được thiết kế để các ứng dụng không đáng tin cậy hoạt động riêng biệt và an toàn trên Windows 10.</strong></p>\n<div style=\"clear:both; margin-top:0em; margin-bottom:1em;\"><a href=\"https://techtalk.vn/microsoft-dat-duoc-muc-tieu-1-ty-thiet-bi-chay-windows-10-tren-toan-the-gioi.html\" target=\"_blank\" class=\"u6559e2691654b7aff0de4a4f0df84bc4\"><style> .u6559e2691654b7aff0de4a4f0df84bc4 { padding:0px; margin: 0; padding-top:1em!important; padding-bottom:1em!important; width:100%; display: block; font-weight:bold; background-color:#eaeaea; border:0!important; border-left:4px solid #34495E!important; text-decoration:none; } .u6559e2691654b7aff0de4a4f0df84bc4:active, .u6559e2691654b7aff0de4a4f0df84bc4:hover { opacity: 1; transition: opacity 250ms; webkit-transition: opacity 250ms; text-decoration:none; } .u6559e2691654b7aff0de4a4f0df84bc4 { transition: background-color 250ms; webkit-transition: background-color 250ms; opacity: 1; transition: opacity 250ms; webkit-transition: opacity 250ms; } .u6559e2691654b7aff0de4a4f0df84bc4 .ctaText { font-weight:bold; color:inherit; text-decoration:none; font-size: 16px; } .u6559e2691654b7aff0de4a4f0df84bc4 .postTitle { color:#000000; text-decoration: underline!important; font-size: 16px; } .u6559e2691654b7aff0de4a4f0df84bc4:hover .postTitle { text-decoration: underline!important; } </style><div style=\"padding-left:1em; padding-right:1em;\"><span class=\"ctaText\"></span>&nbsp; <span class=\"postTitle\">Microsoft đạt được mục tiêu 1 tỷ thiết bị chạy Windows 10 trên toàn thế giới</span></div></a></div>\n<div style=\"clear:both; margin-top:0em; margin-bottom:1em;\"><a href=\"https://techtalk.vn/microsoft-tiet-lo-giao-dien-moi-cua-start-menu-tren-windows-10.html\" target=\"_blank\" class=\"u154f4504b6b6e397f725003f1e11fda7\"><style> .u154f4504b6b6e397f725003f1e11fda7 { padding:0px; margin: 0; padding-top:1em!important; padding-bottom:1em!important; width:100%; display: block; font-weight:bold; background-color:#eaeaea; border:0!important; border-left:4px solid #34495E!important; text-decoration:none; } .u154f4504b6b6e397f725003f1e11fda7:active, .u154f4504b6b6e397f725003f1e11fda7:hover { opacity: 1; transition: opacity 250ms; webkit-transition: opacity 250ms; text-decoration:none; } .u154f4504b6b6e397f725003f1e11fda7 { transition: background-color 250ms; webkit-transition: background-color 250ms; opacity: 1; transition: opacity 250ms; webkit-transition: opacity 250ms; } .u154f4504b6b6e397f725003f1e11fda7 .ctaText { font-weight:bold; color:inherit; text-decoration:none; font-size: 16px; } .u154f4504b6b6e397f725003f1e11fda7 .postTitle { color:#000000; text-decoration: underline!important; font-size: 16px; } .u154f4504b6b6e397f725003f1e11fda7:hover .postTitle { text-decoration: underline!important; } </style><div style=\"padding-left:1em; padding-right:1em;\"><span class=\"ctaText\"></span>&nbsp; <span class=\"postTitle\">Microsoft tiết lộ giao diện mới của Start Menu trên Windows 10</span></div></a></div>\n<p>Có bao giờ bạn tự hỏi rằng làm thế nào để có thể khởi chạy một tập tin .EXE không xác định trên máy tính một cách an toàn hay không? Hẳn bạn sẽ nghĩ ngay đến việc sử dụng máy ảo để kiểm tra các ứng dụng phần mềm dạng này. Tuy nhiên, việc cách này chỉ dành cho những người dùng chuyên sâu, có nhiều kiến thức chuyên môn và nhất là khá mất thời gian.</p>\n<p>Hiểu được vấn đề này, Microsoft đã phát triển một phương pháp đơn giản hơn cho bất kỳ ai sử dụng Windows 10 đều có thể khởi chạy các ứng dụng không đáng tin cậy trong một môi trường desktop bị cô lập, qua đó đảm bảo tính an toàn cao hơn cho hệ thống. Đó chính là Windows Sandbox.</p>\n<div class=\"VCSortableInPreviewMode active noCaption\">\n<div><a class=\"detail-img-lightbox\" title=\"\" href=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/1-1588566544636762555962.jpg\" target=\"_blank\" rel=\"noopener noreferrer\" data-fancybox-group=\"img-lightbox\"><img id=\"img_181624055125417984\" class=\"lightbox-content\" title=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 1.\" src=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/1-1588566544636762555962.jpg\" alt=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 1.\" width=\"\" height=\"\" data-original=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/1-1588566544636762555962.jpg\" /></a></div>\n</div>\n<p>Về bản chất, Windows Sandbox được thiết kế cho mục đích bảo mật và dùng một lần. Do đó, khi bạn đã hoàn thành việc chạy ứng dụng ở chế độ này, toàn bộ Sandbox cũng sẽ bị xóa. Với Windows Sandbox, bạn sẽ không cần phải thiết lập một máy ảo, nhưng nó sẽ yêu cầu khả năng ảo hóa được kích hoạt trong BIOS.</p>\n<p>Hiện tại Microsoft đang cung cấp Windows Sandbox dưới dạng một tính năng của phiên bản Windows 10 Pro và Windows 10 Enterprise, và nếu như bạn đang sử dụng một trong hai phiên bản này thì sau đây sẽ là cách kích hoạt và sử dụng nó.</p>\n<p><b>Cách kích hoạt Windows Sandbox</b></p>\n<div class=\"VCSortableInPreviewMode active\">\n<div><a class=\"detail-img-lightbox\" title=\"Bước 1: Truy cập vào BIOS Settings trên máy tính bạn đang dùng và tìm kiếm, kích hoạt tùy chọn \" href=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/2-1588566544739575590653.png\" target=\"_blank\" rel=\"noopener noreferrer\" data-fancybox-group=\"img-lightbox\"><img id=\"img_181624055731396608\" class=\"lightbox-content\" title=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 2.\" src=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/2-1588566544739575590653.png\" alt=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 2.\" width=\"\" height=\"\" data-original=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/2-1588566544739575590653.png\" /></a></div>\n<div class=\"PhotoCMS_Caption\">\n<p class=\"\" data-placeholder=\"[nhập chú thích]\"><b>Bước 1: </b>Truy cập vào BIOS Settings trên máy tính bạn đang dùng và tìm kiếm, kích hoạt tùy chọn &#8220;Intel VT-x&#8221;, &#8220;Intel Virtualization Technology&#8221;, &#8220;Virtualization Extensions&#8221;, &#8220;Vanderpool&#8221; hoặc tương tự để kích hoạt tính năng ảo hóa cho BIOS.</p>\n</div>\n</div>\n<div class=\"VCSortableInPreviewMode active\">\n<div><a class=\"detail-img-lightbox\" title=\"Bước 2: Bước làm này chỉ áp dụng nếu máy tính của bạn đã kích hoạt sẳn tính năng Hyper-V trên Windows 10. Trường hợp nếu chưa thì bạn có thể bỏ qua. Còn nếu đã rồi thì bạn nên gỡ cài đặt Hyper-V trên Windows 10 bằng cách hủy đánh dấu chọn ở mục \" href=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/3-1588566544878711838304.png\" target=\"_blank\" rel=\"noopener noreferrer\" data-fancybox-group=\"img-lightbox\"><img id=\"img_181624056530509824\" class=\"lightbox-content\" title=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 3.\" src=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/3-1588566544878711838304.png\" alt=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 3.\" width=\"\" height=\"\" data-original=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/3-1588566544878711838304.png\" /></a></div>\n<div class=\"PhotoCMS_Caption\">\n<p class=\"\" data-placeholder=\"[nhập chú thích]\"><b>Bước 2:</b> Bước làm này chỉ áp dụng nếu máy tính của bạn đã kích hoạt sẳn tính năng Hyper-V trên Windows 10. Trường hợp nếu chưa thì bạn có thể bỏ qua. Còn nếu đã rồi thì bạn nên gỡ cài đặt Hyper-V trên Windows 10 bằng cách hủy đánh dấu chọn ở mục &#8220;Hyper-V&#8221; và sau đó nhấn &#8220;OK&#8221;. Quá trình tháo gỡ sẽ yêu cầu bạn khởi động lại Windows.</p>\n</div>\n</div>\n<div class=\"VCSortableInPreviewMode active\">\n<div><a title=\"Bước 3: Khởi động hợp thoại \" href=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/4-1588566545021148924175.png\" target=\"_blank\" rel=\"noopener noreferrer\" data-fancybox-group=\"img-lightbox\">Uninstall a Program.&#8221; target=&#8221;_blank&#8221; class=&#8221;detail-img-lightbox&#8221;&gt;<img id=\"img_181624056660529152\" class=\"lightbox-content\" title=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 4.\" src=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/4-1588566545021148924175.png\" alt=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 4.\" width=\"\" height=\"\" data-original=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/4-1588566545021148924175.png\" /></a></div>\n<div class=\"PhotoCMS_Caption\">\n<p class=\"\" data-placeholder=\"[nhập chú thích]\"><b>Bước 3: </b>Khởi động hợp thoại &#8220;Turn Windows features on or off&#8221; từ Control Panel &gt; Uninstall a Program.</p>\n</div>\n</div>\n<div class=\"VCSortableInPreviewMode active\">\n<div><a class=\"detail-img-lightbox\" title=\"Tìm đến dòng \" href=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/5-15885665451992039556036.png\" target=\"_blank\" rel=\"noopener noreferrer\" data-fancybox-group=\"img-lightbox\"><img id=\"img_181624057165848576\" class=\"lightbox-content\" title=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 5.\" src=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/5-15885665451992039556036.png\" alt=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 5.\" width=\"\" height=\"\" data-original=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/5-15885665451992039556036.png\" /></a></div>\n<div class=\"PhotoCMS_Caption\">\n<p class=\"\" data-placeholder=\"[nhập chú thích]\">Tìm đến dòng &#8220;Windows Sandbox&#8221; và đánh dấu vào nó, sau đó nhấn &#8220;OK&#8221; để lưu lại.</p>\n</div>\n</div>\n<div class=\"VCSortableInPreviewMode active\">\n<div><a class=\"detail-img-lightbox\" title=\"Quá trình cài đặt Windows Sandbox sẽ diễn ra.\" href=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/6-15885665452801564777025.png\" target=\"_blank\" rel=\"noopener noreferrer\" data-fancybox-group=\"img-lightbox\"><img id=\"img_181624059122585600\" class=\"lightbox-content\" title=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 6.\" src=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/6-15885665452801564777025.png\" alt=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 6.\" width=\"\" height=\"\" data-original=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/6-15885665452801564777025.png\" /></a></div>\n<div class=\"PhotoCMS_Caption\">\n<p class=\"\" data-placeholder=\"[nhập chú thích]\">Quá trình cài đặt Windows Sandbox sẽ diễn ra.</p>\n</div>\n</div>\n<div class=\"VCSortableInPreviewMode active\">\n<div><a class=\"detail-img-lightbox\" title=\"Sau khi hoàn tất, bạn sẽ cần khởi động lại Windows để các thay đổi có tác dụng.\" href=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/7-158856654536324791791.png\" target=\"_blank\" rel=\"noopener noreferrer\" data-fancybox-group=\"img-lightbox\"><img id=\"img_181624059277778944\" class=\"lightbox-content\" title=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 7.\" src=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/7-158856654536324791791.png\" alt=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 7.\" width=\"\" height=\"\" data-original=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/7-158856654536324791791.png\" /></a></div>\n<div class=\"PhotoCMS_Caption\">\n<p class=\"\" data-placeholder=\"[nhập chú thích]\">Sau khi hoàn tất, bạn sẽ cần khởi động lại Windows để các thay đổi có tác dụng.</p>\n</div>\n</div>\n<p><b>Cách sử dụng Windows Sandbox</b></p>\n<div class=\"VCSortableInPreviewMode active\">\n<div><a class=\"detail-img-lightbox\" title=\"Mở Start Menu, tìm và nhấn vào Windows Sandbox.\" href=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/8-1588566545530536580066.png\" target=\"_blank\" rel=\"noopener noreferrer\" data-fancybox-group=\"img-lightbox\"><img id=\"img_181624059852398592\" class=\"lightbox-content\" title=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 8.\" src=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/8-1588566545530536580066.png\" alt=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 8.\" width=\"\" height=\"\" data-original=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/8-1588566545530536580066.png\" /></a></div>\n<div class=\"PhotoCMS_Caption\">\n<p class=\"\" data-placeholder=\"[nhập chú thích]\">Mở Start Menu, tìm và nhấn vào Windows Sandbox.</p>\n</div>\n</div>\n<div class=\"VCSortableInPreviewMode active\">\n<div><a class=\"detail-img-lightbox\" title=\"Tiếp theo cửa sổ Sandbox sẽ được khởi chạy, quá trình khởi chạy Sandbox có thể từ 3 - 8 phút tùy vào cấu hình của máy. Lời khuyên là khi bạn khởi chạy Sandbox thì hãy tắt bớt các ứng dụng khác để thời gian khởi chạy có thể nhanh hơn.\" href=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/9-1588566545732288305564.png\" target=\"_blank\" rel=\"noopener noreferrer\" data-fancybox-group=\"img-lightbox\"><img id=\"img_181624060095213568\" class=\"lightbox-content\" title=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 9.\" src=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/9-1588566545732288305564.png\" alt=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 9.\" width=\"\" height=\"\" data-original=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/9-1588566545732288305564.png\" /></a></div>\n<div class=\"PhotoCMS_Caption\">\n<p class=\"\" data-placeholder=\"[nhập chú thích]\">Tiếp theo cửa sổ Sandbox sẽ được khởi chạy, quá trình khởi chạy Sandbox có thể từ 3 &#8211; 8 phút tùy vào cấu hình của máy. Lời khuyên là khi bạn khởi chạy Sandbox thì hãy tắt bớt các ứng dụng khác để thời gian khởi chạy có thể nhanh hơn.</p>\n</div>\n</div>\n<div class=\"VCSortableInPreviewMode active\">\n<div><a class=\"detail-img-lightbox\" title=\"Như đã nói ở trên thì Windows Sandbox là một dạng máy ảo Windows 10 nhưng nhẹ hơn rất nhiều so với các máy ảo khác. Ở giao diện This PC bạn sẽ chỉ có ổ \" href=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/10-15885665459051524331861.png\" target=\"_blank\" rel=\"noopener noreferrer\" data-fancybox-group=\"img-lightbox\"><img id=\"img_181624060519288832\" class=\"lightbox-content\" title=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 10.\" src=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/10-15885665459051524331861.png\" alt=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 10.\" width=\"\" height=\"\" data-original=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/10-15885665459051524331861.png\" /></a></div>\n<div class=\"PhotoCMS_Caption\">\n<p class=\"\" data-placeholder=\"[nhập chú thích]\">Như đã nói ở trên thì Windows Sandbox là một dạng máy ảo Windows 10 nhưng nhẹ hơn rất nhiều so với các máy ảo khác. Ở giao diện This PC bạn sẽ chỉ có ổ &#8220;C&#8221;. Dung lượng của ổ C trên Sandbox cũng là dung lượng trống còn lại trên hệ thống thật.</p>\n</div>\n</div>\n<div class=\"VCSortableInPreviewMode active\">\n<div><a class=\"detail-img-lightbox\" title=\"Từ đây bạn có thể tiến hành cài đặt phần mềm hay làm bất cứ gì như trên một máy tính bình thường. Và khi tắt cửa sổ Sandbox thì đồng nghĩa các dữ liệu và phần mềm trong đó sẽ bị xóa vĩnh viễn.\" href=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/11-15885665460661298702403.png\" target=\"_blank\" rel=\"noopener noreferrer\" data-fancybox-group=\"img-lightbox\"><img id=\"img_181624060772950016\" class=\"lightbox-content\" title=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 11.\" src=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/11-15885665460661298702403.png\" alt=\"Cách an toàn để khởi chạy phần mềm không đáng tin cậy trên Windows 10 - Ảnh 11.\" width=\"\" height=\"\" data-original=\"https://genk.mediacdn.vn/139269124445442048/2020/5/4/11-15885665460661298702403.png\" /></a></div>\n<div class=\"PhotoCMS_Caption\">\n<p class=\"\" data-placeholder=\"[nhập chú thích]\">Từ đây bạn có thể tiến hành cài đặt phần mềm hay làm bất cứ gì như trên một máy tính bình thường. Và khi tắt cửa sổ Sandbox thì đồng nghĩa các dữ liệu và phần mềm trong đó sẽ bị xóa vĩnh viễn.</p>\n</div>\n</div>\n<p>Rất an toàn và tuyệt vời phải không?</p>\n<p style=\"text-align: right;\"><strong><em>TechTalk via<a href=\"https://genk.vn/cach-an-toan-de-khoi-chay-phan-mem-khong-dang-tin-cay-tren-windows-10-20200504113253875.chn\"> GenK</a></em></strong></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Tính năng được thiết kế để các ứng dụng không đáng tin cậy hoạt động riêng biệt và an toàn trên Windows 10. Có bao giờ bạn tự hỏi rằng làm thế nào để có thể khởi chạy một tập tin .EXE không xác định trên máy tính một cách an toàn hay không? Hẳn [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 15,
+    "featured_media": 42839,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://techtalk.vn/wp-json/wp/v2/posts/42838"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://techtalk.vn/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://techtalk.vn/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://techtalk.vn/wp-json/wp/v2/users/15"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://techtalk.vn/wp-json/wp/v2/comments?post=42838"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://techtalk.vn/wp-json/wp/v2/posts/42838/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 42840,
+          "href": "https://techtalk.vn/wp-json/wp/v2/posts/42838/revisions/42840"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://techtalk.vn/wp-json/wp/v2/media/42839"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://techtalk.vn/wp-json/wp/v2/media?parent=42838"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://techtalk.vn/wp-json/wp/v2/categories?post=42838"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://techtalk.vn/wp-json/wp/v2/tags?post=42838"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
