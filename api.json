@@ -1,8 +1,8 @@
 {
   "user_url": "https://raw.githubusercontent.com/TSCSOftware/api1/master/5.json",
-  "api_base_url_old": "",
-  "base_url_local_202_live": "",
-  "api_base_url_local_202_live": "http://202.131.107.107:8013/fadi_live/public/api/",
+  "1_route": "'https://public-api.wordpress.com/wp/v2/sites/kiyawamulk.wordpress.com/posts?per_page=15&_embed'",
+  "1_text": "kollin",
+  "1_img": "http://202.131.107.107:8013/fadi_live/public/storage/app/public/34/ic_launcher.png",
   "base_url_live": "https://login.tazmin.net/",
   "api_base_url_live": "https://login.tazmin.net/api/",
   "base_url_live_old": "http://cp.diny.co.il/Laravel/public/",
