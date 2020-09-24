@@ -1,0 +1,15 @@
+{
+  "user_url": "https://raw.githubusercontent.com/TSCSOftware/api1/master/5.json",
+  "1_route": "'https://public-api.wordpress.com/wp/v2/sites/kiyawamulk.wordpress.com/posts?per_page=15&_embed'",
+  "1_text": "kollin",
+  "1_img": "http://202.131.107.107:8013/fadi_live/public/storage/app/public/34/ic_launcher.png",
+  "2_route": "'https://public-api.wordpress.com/wp/v2/sites/kiyawamulk.wordpress.com/posts?per_page=15&_embed'",
+  "2_text": "kollin",
+  "2_img": "http://202.131.107.107:8013/fadi_live/public/storage/app/public/34/ic_launcher.png",
+  "3_route": "'https://public-api.wordpress.com/wp/v2/sites/kiyawamulk.wordpress.com/posts?per_page=15&_embed'",
+  "3_text": "kollin",
+  "3_img": "http://202.131.107.107:8013/fadi_live/public/storage/app/public/34/ic_launcher.png",
+  "csize": "900",
+  
+  
+}
