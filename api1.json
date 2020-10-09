@@ -9,7 +9,13 @@
   "3_route": "'https://public-api.wordpress.com/wp/v2/sites/kiyawamulk.wordpress.com/posts?per_page=15&_embed'",
   "3_text": "kollin",
   "3_img": "http://202.131.107.107:8013/fadi_live/public/storage/app/public/34/ic_launcher.png",
-  "csize": "900",
+  "cs": 900.0 ,
+  "cs1": 800.0 ,
+  "cs2": 700.0 ,
+  "cs3": 650.0,
+  "cs4": 500.0 ,
+  "cs5": 400.0
+  
   
   
 }
