@@ -7,15 +7,15 @@
   "cs4": 500.0 ,
   "cs5": 400.0,
   "catsize1": 5.0,
-  "consize": 8.9,
+  "consize": 3.3,
   "catsize2": 5.0,
   "catsize3": 100.0,
   "admobad": 6.0,
-  "cat1":"https://raw.githubusercontent.com/TSCSOftware/api1/master/user3.json",
+  "cat1":"https://raw.githubusercontent.com/TSCSOftware/asst/main/cat1.json",
    "cat2":"https://raw.githubusercontent.com/TSCSOftware/api1/master/user.json",
    "cat3":"https://raw.githubusercontent.com/TSCSOftware/api1/master/user3.json",
   "reposturl":"https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?&per_page=5&_embed",
-  "adcontainer":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
+  "adcontainer":"https://upload.wikimedia.org/wikipedia/commons/0/0d/1%2B1%3D2.png",
   "adcontainersize": 5.0,
   "name189730762":"ReadMaster Team",
  "pic189730762":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
@@ -26,7 +26,12 @@
 "pic193850932":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
 "post193850932":"5",
 "rank193850932":"1",
-"bio193850932":"ගෙදරට වෙලා කකා බිබී මගේ බඩ ලොකු කරගන්න එක තමා මගේ විනෝදාංශය "
+"bio193850932":"සරල දේ සරලව දකින කෙනෙක්. ",
+"name195035724":"Amanda Nimsara",
+"pic195035724":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
+"post195035724":"2",
+"rank195035724":"2",
+"bio195035724":"ඔබ තවම මෙම තොරතුර  සපයා නොමැත. "
   
   
   
