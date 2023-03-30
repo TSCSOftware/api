@@ -3,132 +3,6 @@
     "categories": {
       "data": [
         {
-          "id": "7",
-          "attributes": {
-            "name": "ක්රීඩා",
-            "slug": "game",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "10",
-          "attributes": {
-            "name": "භයානක",
-            "slug": "dangerous",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "16",
-          "attributes": {
-            "name": "18+",
-            "slug": "18plus",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "6",
-          "attributes": {
-            "name": "ඉතිහාස",
-            "slug": "history",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "18",
-          "attributes": {
-            "name": "ළමයින්ට",
-            "slug": "kids",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "20",
-          "attributes": {
-            "name": "කොමික්",
-            "slug": "comic",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "22",
-          "attributes": {
-            "name": "කොරියන් ",
-            "slug": "korean",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "23",
-          "attributes": {
-            "name": "දමිල",
-            "slug": "tamil",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "24",
-          "attributes": {
-            "name": "ඉංග්‍රීසි",
-            "slug": "english",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "25",
-          "attributes": {
-            "name": "වෙනත් භාෂා ",
-            "slug": "otherlang",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "26",
-          "attributes": {
-            "name": "රහස් පරීක්ෂක",
-            "slug": "detective",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "27",
-          "attributes": {
-            "name": "මැජික් ",
-            "slug": "magic",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "29",
-          "attributes": {
-            "name": "Fantasy",
-            "slug": "f-1",
-            "isassest": null,
-            "pic": null
-          }
-        },
-        {
-          "id": "21",
-          "attributes": {
-            "name": "Box-office Hits",
-            "slug": "box-office-hits",
-            "isassest": true,
-            "pic": "hit.png"
-          }
-        },
-        {
           "id": "17",
           "attributes": {
             "name": "ක්‍රියාදාම",
@@ -162,6 +36,15 @@
             "slug": "comedy",
             "isassest": true,
             "pic": "comedy.png"
+          }
+        },
+        {
+          "id": "21",
+          "attributes": {
+            "name": "Box-office Hits",
+            "slug": "box-office-hits",
+            "isassest": true,
+            "pic": "hit.png"
           }
         },
         {
