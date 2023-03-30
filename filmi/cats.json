@@ -1,0 +1,260 @@
+{
+  "data": {
+    "categories": {
+      "data": [
+        {
+          "id": "7",
+          "attributes": {
+            "name": "ක්රීඩා",
+            "slug": "game",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "10",
+          "attributes": {
+            "name": "භයානක",
+            "slug": "dangerous",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "16",
+          "attributes": {
+            "name": "18+",
+            "slug": "18plus",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "6",
+          "attributes": {
+            "name": "ඉතිහාස",
+            "slug": "history",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "18",
+          "attributes": {
+            "name": "ළමයින්ට",
+            "slug": "kids",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "20",
+          "attributes": {
+            "name": "කොමික්",
+            "slug": "comic",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "22",
+          "attributes": {
+            "name": "කොරියන් ",
+            "slug": "korean",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "23",
+          "attributes": {
+            "name": "දමිල",
+            "slug": "tamil",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "24",
+          "attributes": {
+            "name": "ඉංග්‍රීසි",
+            "slug": "english",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "25",
+          "attributes": {
+            "name": "වෙනත් භාෂා ",
+            "slug": "otherlang",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "26",
+          "attributes": {
+            "name": "රහස් පරීක්ෂක",
+            "slug": "detective",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "27",
+          "attributes": {
+            "name": "මැජික් ",
+            "slug": "magic",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "29",
+          "attributes": {
+            "name": "Fantasy",
+            "slug": "f-1",
+            "isassest": null,
+            "pic": null
+          }
+        },
+        {
+          "id": "21",
+          "attributes": {
+            "name": "Box-office Hits",
+            "slug": "box-office-hits",
+            "isassest": true,
+            "pic": "hit.png"
+          }
+        },
+        {
+          "id": "17",
+          "attributes": {
+            "name": "ක්‍රියාදාම",
+            "slug": "action",
+            "isassest": true,
+            "pic": "action.png"
+          }
+        },
+        {
+          "id": "8",
+          "attributes": {
+            "name": "ත්‍රාසජනක",
+            "slug": "adventure",
+            "isassest": true,
+            "pic": "adventure.png"
+          }
+        },
+        {
+          "id": "5",
+          "attributes": {
+            "name": "ඇනිමේෂන්",
+            "slug": "animation",
+            "isassest": true,
+            "pic": "animation.png"
+          }
+        },
+        {
+          "id": "14",
+          "attributes": {
+            "name": "හාස්‍යජනක",
+            "slug": "comedy",
+            "isassest": true,
+            "pic": "comedy.png"
+          }
+        },
+        {
+          "id": "1",
+          "attributes": {
+            "name": "අපරාධ",
+            "slug": "criminal",
+            "isassest": true,
+            "pic": "crime.png"
+          }
+        },
+        {
+          "id": "12",
+          "attributes": {
+            "name": "වාර්තාමය",
+            "slug": "documentary",
+            "isassest": true,
+            "pic": "documentary.png"
+          }
+        },
+        {
+          "id": "9",
+          "attributes": {
+            "name": "නාට්‍යමය",
+            "slug": "drama",
+            "isassest": true,
+            "pic": "drama.png"
+          }
+        },
+        {
+          "id": "19",
+          "attributes": {
+            "name": "පවුලේ සැමට",
+            "slug": "family",
+            "isassest": true,
+            "pic": "family.png"
+          }
+        },
+        {
+          "id": "11",
+          "attributes": {
+            "name": "මනක්කල්පිත",
+            "slug": "fantacy",
+            "isassest": true,
+            "pic": "fantasy.png"
+          }
+        },
+        {
+          "id": "15",
+          "attributes": {
+            "name": "හොල්මන්",
+            "slug": "gost",
+            "isassest": true,
+            "pic": "horror.png"
+          }
+        },
+        {
+          "id": "2",
+          "attributes": {
+            "name": "අභිරහස් ",
+            "slug": "mysterious",
+            "isassest": true,
+            "pic": "mystery.png"
+          }
+        },
+        {
+          "id": "4",
+          "attributes": {
+            "name": "ආදරකතා",
+            "slug": "love",
+            "isassest": true,
+            "pic": "romance.png"
+          }
+        },
+        {
+          "id": "13",
+          "attributes": {
+            "name": "විද්‍යාප්‍රබන්ධ",
+            "slug": "scifi",
+            "isassest": true,
+            "pic": "scifi.png"
+          }
+        },
+        {
+          "id": "28",
+          "attributes": {
+            "name": "යුද්ධ",
+            "slug": "war",
+            "isassest": true,
+            "pic": "war.png"
+          }
+        }
+      ]
+    }
+  }
+}
