@@ -1,3 +1,4 @@
 {
-"config":"http://fledu.co/filmi_conf.json"
+"config":"http://fledu.co/filmi_conf.json",
+  "enc_ver":"mypass123"
 }
